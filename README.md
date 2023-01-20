@@ -1,4 +1,4 @@
-# TF_azurerm_nsg_module
+# Azurerm_nsg
 
 Deploy Azure Network Security Group with a dedicated Terraform module.
 
